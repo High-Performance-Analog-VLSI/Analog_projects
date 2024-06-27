@@ -67,7 +67,12 @@ export KLAYOUT_HOME=/foss/designs/.klayout
 
 ```
 Step 6: Now to see schematic editor we need to type ``` xschem``` on the new teminal.
-after doing so a schematic vien like shown below  will apear.
+after doing so a schematic 
+![Screenshot from 2024-06-28 00-29-44](https://github.com/High-Performance-Analog-VLSI/Analog_projects/assets/141152904/c37495c8-861b-4a09-a27d-da46dc032e77)
+vien like shown below  will apear.
 
 
 ![Screenshot from 2024-06-28 02-30-51](https://github.com/High-Performance-Analog-VLSI/Analog_projects/assets/141152904/03848794-e655-4a8b-8574-a962c22df0d9)
+
+Now going to the file we can open a new schematic and make  our own design like shown
+![Screenshot from 2024-06-28 00-26-08](https://github.com/High-Performance-Analog-VLSI/Analog_projects/assets/141152904/7645a8ea-c528-4a31-8808-1468f24a8de7)
